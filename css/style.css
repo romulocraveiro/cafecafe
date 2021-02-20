@@ -1,0 +1,47 @@
+*{
+    background-color: lawngreen;
+    margin-right: 20px;
+    margin-left: 20px;
+    font-family:  'Libre Baskerville', sans-serif;
+}
+
+img{
+    width:70%; /*Só tem margens ao lado 
+    no index por causa do width dentro da célula*/
+    border-radius: 10%;
+    border-color:maroon;
+    border: solid 3px;
+}
+
+table{
+    text-align: center;
+}
+
+h1, h2 {
+    text-align: center;
+}
+h1 {
+    padding-top: 60px;
+}
+h2{
+    padding-bottom: 60px;
+}
+
+.imgdescription{
+    width: 30%;
+    display: block ;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+.description {
+    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+footer{
+    text-align: center;
+    padding-bottom: 30px;
+}
