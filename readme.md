@@ -7,9 +7,9 @@
 
 ## Um problema que consegui resolver / A problem I was able to solve
 
-* As imagens tinham diferentes tamanhos. Então padronizei todas para as dimensões 1920 x 1215. Além disso, o width 70% deixava espaço sobrando entre as imagens e as bordas. A solução foi aumentar para 80%.
+* As imagens tinham diferentes tamanhos. Então padronizei todas para as dimensões 1920 x 1215. 
 
-* The images had different sizes. So I stardardized all of them to the dimensions 1920 x 1215. Besides, their width = 70% on CSS made a gap appear between the images and the borders. The solution was to increase it to 80%.
+* The images had different sizes. So I stardardized all of them to the dimensions 1920 x 1215. 
 
 
 ## Tecnologias / Technologies
