@@ -6,8 +6,7 @@
 }
 
 img{
-    width:70%; /*Só tem margens ao lado 
-    no index por causa do width dentro da célula*/
+    width:70%; 
     border-radius: 10%;
     border-color:maroon;
     border: solid 3px;
